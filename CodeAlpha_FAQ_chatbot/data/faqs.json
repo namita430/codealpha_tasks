@@ -1,0 +1,138 @@
+[
+    {
+        "question": "What is artificial intelligence?",
+        "answer": "Artificial Intelligence is a field of computer science that enables machines to perform tasks that normally require human intelligence."
+    },
+    {
+        "question": "Define artificial intelligence",
+        "answer": "Artificial Intelligence refers to the simulation of human intelligence in machines that are programmed to think and learn."
+    },
+    {
+        "question": "What is AI used for?",
+        "answer": "AI is used in healthcare, robotics, self-driving cars, recommendation systems, chatbots, and many other applications."
+    },
+    {
+        "question": "What is machine learning?",
+        "answer": "Machine learning is a subset of AI that allows computers to learn patterns from data without being explicitly programmed."
+    },
+    {
+        "question": "Explain machine learning",
+        "answer": "Machine learning is a method of data analysis where algorithms learn patterns from data and make predictions or decisions."
+    },
+    {
+        "question": "What are the types of machine learning?",
+        "answer": "The main types are supervised learning, unsupervised learning, and reinforcement learning."
+    },
+    {
+        "question": "What is supervised learning?",
+        "answer": "Supervised learning is a machine learning method where the model learns from labeled data."
+    },
+    {
+        "question": "What is unsupervised learning?",
+        "answer": "Unsupervised learning is a machine learning technique where the model learns patterns from unlabeled data."
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "answer": "Reinforcement learning is a type of machine learning where an agent learns by interacting with an environment and receiving rewards."
+    },
+    {
+        "question": "What is natural language processing?",
+        "answer": "Natural Language Processing is a field of AI that enables computers to understand, interpret, and generate human language."
+    },
+    {
+        "question": "What does NLP stand for?",
+        "answer": "NLP stands for Natural Language Processing."
+    },
+    {
+        "question": "Where is NLP used?",
+        "answer": "NLP is used in chatbots, language translation, sentiment analysis, speech recognition, and virtual assistants."
+    },
+    {
+        "question": "What is a chatbot?",
+        "answer": "A chatbot is a software application that can simulate conversation with users using text or voice."
+    },
+    {
+        "question": "What is an FAQ chatbot?",
+        "answer": "An FAQ chatbot answers frequently asked questions by matching user queries with predefined questions and answers."
+    },
+    {
+        "question": "What is text preprocessing?",
+        "answer": "Text preprocessing is the process of cleaning and preparing text data for analysis by removing noise and unnecessary elements."
+    },
+    {
+        "question": "What is tokenization?",
+        "answer": "Tokenization is the process of breaking text into smaller units such as words or sentences."
+    },
+    {
+        "question": "What are stopwords?",
+        "answer": "Stopwords are common words like 'is', 'the', and 'and' that are usually removed during text preprocessing."
+    },
+    {
+        "question": "What is stemming?",
+        "answer": "Stemming is the process of reducing words to their root form."
+    },
+    {
+        "question": "What is lemmatization?",
+        "answer": "Lemmatization is the process of converting a word to its base or dictionary form."
+    },
+    {
+        "question": "What is TF-IDF?",
+        "answer": "TF-IDF stands for Term Frequency Inverse Document Frequency and is used to measure the importance of words in a document."
+    },
+    {
+        "question": "Why is TF-IDF used?",
+        "answer": "TF-IDF is used to convert text into numerical vectors for machine learning models."
+    },
+    {
+        "question": "What is cosine similarity?",
+        "answer": "Cosine similarity is a method used to measure the similarity between two vectors."
+    },
+    {
+        "question": "Why is cosine similarity used in chatbots?",
+        "answer": "Cosine similarity helps find the most similar question in the FAQ dataset compared to the user's query."
+    },
+    {
+        "question": "What programming language is commonly used for AI?",
+        "answer": "Python is the most commonly used programming language for artificial intelligence and machine learning."
+    },
+    {
+        "question": "What is Python?",
+        "answer": "Python is a high level programming language widely used for web development, AI, machine learning, and data science."
+    },
+    {
+        "question": "Why is Python popular for AI?",
+        "answer": "Python is popular for AI because it has many libraries like TensorFlow, PyTorch, Scikit-learn, and NLTK."
+    },
+    {
+        "question": "What is NLTK?",
+        "answer": "NLTK is a Python library used for natural language processing tasks."
+    },
+    {
+        "question": "What is scikit-learn?",
+        "answer": "Scikit-learn is a Python machine learning library used for classification, regression, and clustering."
+    },
+    {
+        "question": "What is data science?",
+        "answer": "Data science is a field that uses scientific methods and algorithms to extract insights from data."
+    },
+    {
+        "question": "What is deep learning?",
+        "answer": "Deep learning is a subset of machine learning that uses neural networks with many layers."
+    },
+    {
+        "question": "What is a neural network?",
+        "answer": "A neural network is a computational model inspired by the human brain used for machine learning tasks."
+    },
+    {
+        "question": "What is training data?",
+        "answer": "Training data is the dataset used to train a machine learning model."
+    },
+    {
+        "question": "What is testing data?",
+        "answer": "Testing data is used to evaluate the performance of a trained machine learning model."
+    },
+    {
+        "question": "What is a dataset?",
+        "answer": "A dataset is a collection of related data used for analysis or training machine learning models."
+    }
+]
